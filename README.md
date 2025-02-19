@@ -42,7 +42,20 @@ Ensure you have the following installed:
 - [Maven](https://maven.apache.org/) or [Gradle](https://gradle.org/)
 - [JUnit](https://junit.org/)
 
-### **Clone the Repository**
+## Contribution Guidelines
+
+### **Team Rules**
+	•	Follow clean coding principles (proper naming conventions, comments, and documentation).
+	•	TDD First: Write unit tests before implementing any new functionality.
+	•	Respect Code Reviews: PRs must be reviewed before merging.
+	•	No Direct Push to Main: All contributions must be made through Pull Requests (PRs).
+	•	Communicate in Issues: If you’re working on a task, assign yourself in the Issues section.
+
+How to Contribute
+	1.	Fork the repository
+	2.	Create a feature branch**
+
+### **Clone the Repository
 ```sh
 git clone https://github.com/your-username/goro-goro-shogi.git
 cd goro-goro-shogi
